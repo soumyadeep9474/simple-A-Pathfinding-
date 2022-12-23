@@ -1,1 +1,1 @@
-# simple-A* -Pathfinding- visulalizer-
+# simple A* Pathfinding visulalizer
